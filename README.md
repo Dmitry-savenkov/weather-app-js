@@ -1,2 +1,2 @@
 # weather-app-js
-weather APU
+weather API
